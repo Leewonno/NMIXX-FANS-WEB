@@ -15,7 +15,6 @@ export default function RootLayout({
     <html lang="ko">
       <body>
         {children}
-        안녕하세요!
       </body>
     </html>
   );
